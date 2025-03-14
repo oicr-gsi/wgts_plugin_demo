@@ -1,0 +1,3 @@
+[submodule "djerba_wgts/plugins/snv_indel_demo"]
+	path = djerba_wgts/plugins/snv_indel_demo
+	url = git@github.com:oicr-gsi/snv_indel_demo.git
