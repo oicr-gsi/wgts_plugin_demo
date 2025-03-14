@@ -59,8 +59,6 @@ setup(
     author="Iain Bancarz",
     author_email="ibancarz [at] oicr [dot] on [dot] ca",
     description="Create reports from metadata and workflow output",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     url="https://github.com/oicr-gsi/djerba",
     keywords=['cancer', 'bioinformatics'],
     license='GPL 3.0',
